@@ -1,5 +1,5 @@
-#To run the program to train the models:
-To run our program, place the dataset in the project directory as a text file
+#Run the program to train the models:
+To run the program, place the dataset in the project directory as a text file
 named "data.txt" and run the program. It should train the three models/classifier(Naives Bayes, Base Decision tree, Best Decision Tree) and produce a prediction in an output files for each model. The output files also analyses the different classifier. Each output file
 should contain:
 1) The index of the row of each test data instance from the original data set and the predicted value for that instance.
